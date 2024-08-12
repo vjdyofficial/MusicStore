@@ -7,7 +7,9 @@ From here you can download music sound effects and even audio files the best par
 > - However, all audio files are still in my **Own GitHub Repository** becuase my special repository is also a server.
 
 > [!note]
-> That's why we made the **app** because a lot of people really hard to download all our music that is coming from IceDrive. So, I decided to upload all our music and some sort of audio files to GitHub. We will create a web version soon which you can download on your PC, macOS or iOS devices.
+> - That's why we made the **app** because a lot of people really hard to download all our music that is coming from IceDrive. So, I decided to upload all our music and some sort of audio files to GitHub. We will create a web version soon which you can download on your PC, macOS or iOS devices.
+> - While we have some changes in the content list, the GitHub Raw Content will take a long time to update. So, you must to wait for around 30 minutes depending on the modifications we did.
+> - The most part is the server has a **real-time updates**. So, it very useful if you don't update the app, but it depends on the code changes. You can update the app just in case you got some errors.
 
 > [!tip]
 > To get started, click on the tab selection, choose the music in the content list. preview and click on download. See _usage policy_ by clicking on the `...` icon and click on **Usage Policy** to learn on how to use music with attributes.
