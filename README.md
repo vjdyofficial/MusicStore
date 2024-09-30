@@ -23,5 +23,13 @@ From here you can download music sound effects and even audio files the best par
 > [!caution]
 > Do **NOT** edit any Content List CSV! only the developer can edit it. If you know the purpose of the CSV data, you good.
 
+# Embed
+To embed our music, you can type the Audio Link on the Side Menu. Here's the example:
+
+`<audio autoplay controlsList="nodownload noplaybackrate">`<br>
+`  <source src="https://github.com/vjdyofficial/vjdyofficial/releases/download/vjdyofficialmusic-2024/deloraxpowerin8bit-extendedmix.mp3" type="audio/mpeg">`<br>
+`  Your browser does not support the audio element.`<br>
+`</audio>`
+
 Enjoy!
 _-best, vjdy_
