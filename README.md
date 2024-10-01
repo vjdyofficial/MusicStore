@@ -5,6 +5,7 @@ From here you can download music sound effects and even audio files the best par
 > [!important]
 > - `ContentLists` and `servertabs.csv` in the code are the system which the app can get all row and table data from the GitHub Server.
 > - However, all audio files are still in my **Own GitHub Repository** becuase my special repository is also a server.
+> - `Lyrics` folder in the code is the system to fetch embedded lyrics in the specific audio. This is a new feature to show lyrics in **version 4+**.
 
 > [!note]
 > - That's why we made the **app** because a lot of people really hard to download all our music that is coming from IceDrive. So, I decided to upload all our music and some sort of audio files to GitHub. We will create a web version soon which you can download on your PC, macOS or iOS devices.
